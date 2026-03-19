@@ -1,4 +1,5 @@
 # Ćwiczenia z Git - PJATK
+Wersja z gałęzi A
 
 ## Cel projektu
 Projekt stworzony na potrzeby ćwiczeń z podstaw systemu kontroli wersji Git. Dowiedzieliśmy się w nim, jak łączyć repozytorium lokalne ze zdalnym (GitHub).
